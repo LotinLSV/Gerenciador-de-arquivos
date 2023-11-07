@@ -9,6 +9,8 @@ O primeiro passo foi importar as bibliotecas
 
 **PySimpleGUI**
 > é uma biblioteca cuja função é criar uma tela de uma maneira simples e prática.
+
+---
 **os**
 > é uma biblioteca cuja função é deletar arquivos através de um caminho.
 
