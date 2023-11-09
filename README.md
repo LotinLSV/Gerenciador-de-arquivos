@@ -24,10 +24,15 @@ O começo foi realizado com sucesso onde até a data deste commit dia 07-10-2023
 - Excluir este arquivo.
 
 
+### 08-10-2023
+- O usuário pode escolher o nome do arquivo
+- adicionado o **widget** Listbox 
+
+
 ### próximos passos
 
 Os próximos passos esperado são:
-- Permitir que o usuário defina o nome do arquivo.
+- Permitir que o usuário defina o nome do arquivo. - ok
 - Permitir que o usuário selecione qual arquivo deseja editar.
 - Permitir que o usuário selecione qual arquivo deseja excluir.
 
