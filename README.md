@@ -32,15 +32,15 @@ O começo foi realizado com sucesso onde até a data deste commit dia 07-10-2023
 ### 09-10-2023
 - O usuário pode escolher qual arquivo deseja remover
 - O usuário pode escolher em qual arquivo deseja adicionar a nova linha
-
+- O usuário pode escolher qual arquivo o mesmo vai excluir
 
 ### próximos passos
 
 Os próximos passos esperado são:
 - Permitir que o usuário defina o nome do arquivo. - ok
 - Permitir que o usuário selecione qual arquivo deseja editar. - ok
-- Permitir que o usuário selecione qual arquivo deseja excluir.
+- Permitir que o usuário selecione qual arquivo deseja excluir. -ok
 
 Percentual do projeto até agora[^1]
 
-[^1]: 25%
+[^1]: 100%
