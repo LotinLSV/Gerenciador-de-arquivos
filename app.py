@@ -60,5 +60,3 @@ while True:
             Janela['registros'].update(values=registros)
         else:
             print(f'O arquivo Exemplo de arquivo.txt não existe mais')
-
-    
