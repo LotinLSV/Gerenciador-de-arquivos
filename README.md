@@ -34,12 +34,19 @@ O começo foi realizado com sucesso onde até a data deste commit dia 07-10-2023
 - O usuário pode escolher em qual arquivo deseja adicionar a nova linha
 - O usuário pode escolher qual arquivo o mesmo vai excluir
 
-### próximos passos
+### próximos passos já foram realizados
 
 Os próximos passos esperado são:
 - Permitir que o usuário defina o nome do arquivo. - ok
 - Permitir que o usuário selecione qual arquivo deseja editar. - ok
 - Permitir que o usuário selecione qual arquivo deseja excluir. -ok
+
+### melhorias
+
+- Quando o usuário selecionar o valor x na lista subistituir o valor do InputText
+- Quando o usuário inserir um novo arquivo limpar o InputText
+
+
 
 Percentual do projeto até agora[^1]
 
