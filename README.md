@@ -5,7 +5,7 @@
 este projeto tem como objetivo a crição de um app utilizando a linguagem Pyhton e a biblioteca PySympleGUI para gerar um app cuja função final vai ser editar um arquivo x, e este arquivo pode ser gerado, editado seu conteúdo ou removido caso haja a necessidade.
 
 ### primeiros passos
-O primeiro passo foi importar as bibliotecas
+O primeiro passo foi importar as bibliotecas.
 
 **PySimpleGUI**
 > é uma biblioteca cuja função é criar uma tela de uma maneira simples e prática.
@@ -25,14 +25,14 @@ O começo foi realizado com sucesso onde até a data deste commit dia 07-10-2023
 
 
 ### 08-10-2023
-- O usuário pode escolher o nome do arquivo
-- adicionado o **widget** Listbox 
+- O usuário pode escolher o nome do arquivo.
+- adicionado o **widget** Listbox.
 
 
 ### 09-10-2023
-- O usuário pode escolher qual arquivo deseja remover
-- O usuário pode escolher em qual arquivo deseja adicionar a nova linha
-- O usuário pode escolher qual arquivo o mesmo vai excluir
+- O usuário pode escolher qual arquivo deseja remover.
+- O usuário pode escolher em qual arquivo deseja adicionar a nova linha.
+- O usuário pode escolher qual arquivo o mesmo vai excluir.
 
 ### próximos passos já foram realizados
 
@@ -43,11 +43,17 @@ Os próximos passos esperado são:
 
 ### melhorias
 
-- Quando o usuário selecionar o valor x na lista subistituir o valor do InputText
-- Quando o usuário inserir um novo arquivo limpar o InputText
+- Quando o usuário selecionar o valor x na lista subistituir o valor do InputText.
+- Quando o usuário inserir um novo arquivo limpar o InputText.
 
 
+### Novas funcionalidades previstas
+- Enviar os documentos selecionados para um servidor via rest.
+- acessar este arquivo dentro do servidor.
+- baixar este arquivo do servidor.
+- excluir este arquivo do servidor.
 
-Percentual do projeto até agora[^1]
+
+Percentual do projeto até agora[^1].
 
 [^1]: 100%
