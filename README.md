@@ -29,11 +29,16 @@ O começo foi realizado com sucesso onde até a data deste commit dia 07-10-2023
 - adicionado o **widget** Listbox 
 
 
+### 09-10-2023
+- O usuário pode escolher qual arquivo deseja remover
+- O usuário pode escolher em qual arquivo deseja adicionar a nova linha
+
+
 ### próximos passos
 
 Os próximos passos esperado são:
 - Permitir que o usuário defina o nome do arquivo. - ok
-- Permitir que o usuário selecione qual arquivo deseja editar.
+- Permitir que o usuário selecione qual arquivo deseja editar. - ok
 - Permitir que o usuário selecione qual arquivo deseja excluir.
 
 Percentual do projeto até agora[^1]
